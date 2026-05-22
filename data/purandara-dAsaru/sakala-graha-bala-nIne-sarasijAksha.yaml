@@ -1,7 +1,12 @@
-id: 'purandara-0001'
-title: 'Sakala graha bala nIne sarasijAksha'
-composer: 'Purandara DAsaru'
-ankita_nama: 'Purandara Vithala'
+id: purandara-0001
+title:
+  kannada: ಸಕಲ ಗ್ರಹ ಬಲ ನೀನೆ ಸರಸಿಜಾಕ್ಷ
+
+composer:
+  kannada: ಪುರಂದರ ದಾಸರು
+ankita_nama:
+  kannada: ಪುರಂದರ ವಿಠಲ
+type: Devaranaama
 
 # The Content Structure
 sections:
@@ -9,7 +14,7 @@ sections:
       ಸಕಲ ಗ್ರಹ ಬಲ ನೀನೆ ಸರಸಿಜಾಕ್ಷ
       ನಿಖಿಳ ರಕ್ಷಕ ನೀನೆ ವಿಶ್ವವ್ಯಾಪಕನೆ
 
-  - anupallavi: ''
+  - anupallavi:
 
   - charana:
       - stanza: 1
