@@ -1,4 +1,4 @@
-id: purandara-0001
+id: purandaradAsa-0001
 title:
   kannada: ಸಕಲ ಗ್ರಹ ಬಲ ನೀನೆ ಸರಸಿಜಾಕ್ಷ
 
@@ -6,7 +6,9 @@ composer:
   kannada: ಪುರಂದರ ದಾಸರು
 ankita_nama:
   kannada: ಪುರಂದರ ವಿಠಲ
-type: Devaranaama
+type: DevaranAma
+raaga: ಅಠಾಣ
+taala: ಖಂಡ ಛಾಪು
 
 # The Content Structure
 sections:
