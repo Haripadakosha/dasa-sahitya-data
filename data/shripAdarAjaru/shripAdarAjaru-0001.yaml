@@ -1,6 +1,6 @@
 id: shripAdarAjaru-0001
 title:
-  kannada: ಮರುದಂಶರ ಮತ ಪಿಡಿಯದೆ ಇಹ -ಪರದಲ್ಲಿ ಸುಖವಿಲ್ಲವಂತೆ
+  kannada: ಮರುದಂಶರ ಮತ ಪಿಡಿಯದೆ ಇಹಪರದಲ್ಲಿ ಸುಖವಿಲ್ಲವಂತೆ
 
 composer:
   kannada: ಶ್ರೀಪಾದರಾಜರಾಜರು
@@ -9,14 +9,15 @@ ankita_nama:
 type: DevaranAma
 raaga:
 taala:
+deity: 
 
 # The Content Structure
 sections:
   - pallavi: |
-      ಮರುದಂಶರ ಮತ ಪಿಡಿಯದೆ ಇಹ -ಪರದಲ್ಲಿ ಸುಖವಿಲ್ಲವಂತೆ || ಪ||
+      ಮರುದಂಶರ ಮತ ಪಿಡಿಯದೆ ಇಹಪರದಲ್ಲಿ ಸುಖವಿಲ್ಲವಂತೆ || ಪ||
 
   - anupallavi: |
-      ಅರಿತು ವಿವೇಕದಿ ಮರೆಯದೆ ನಮ್ಮಗುರುರಾಯರ ನಂಬಿ ಬದುಕಿರೋ ||ಅ.ಪ||
+      ಅರಿತು ವಿವೇಕದಿ ಮರೆಯದೆ ನಮ್ಮ ಗುರುರಾಯರ ನಂಬಿ ಬದುಕಿರೋ ||ಅ.ಪ||
 
   - charana:
       - stanza: 1

@@ -1,0 +1,30 @@
+id: shripAdarAjaru-0023
+title:
+  kannada: ನಂದನಂದನ ಪಾಹಿ ಗುಣವೃಂದ
+
+composer:
+  kannada: ಶ್ರೀಪಾದರಾಜರಾಜರು
+ankita_nama:
+  kannada: ರಂಗವಿಠಲ
+type: DevaranAma
+raaga:
+taala:
+
+sections:
+  - pallavi: |
+      ನಂದನಂದನ ಪಾಹಿ ಗುಣವೃಂದ
+      ಸುಂದರರೂಪ ಗೋವಿಂದ ಮುಕುಂದ ||ಪ||
+  - anupallavi:
+  - charana:
+      - stanza: 1
+        text: |
+          ದಿನಕರಭವಪಾಲ ಕನಕಾಂಕಿತ ಚೇಲ
+          ಜನಕಜಾಲೋಲ ಜನಕಾನುಕೂಲ ||೧||
+      - stanza: 2
+        text: |
+          ಪವನಜಪರಿವಾರ ಯವನವಿದಾರ
+          ನವರತ್ನಹಾರ ನವನೀತಚೋರ ||೨||
+      - stanza: 3
+        text: |
+          ತುಂಗ ವಿಹಂಗತುರಂಗ ದಯಾಪಾಂಗ
+          ರಂಗವಿಠಲ ಭವಭಂಗ ಶುಭಾಂಗ ||೩||
